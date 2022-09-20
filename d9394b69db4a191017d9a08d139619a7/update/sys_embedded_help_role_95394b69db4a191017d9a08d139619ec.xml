@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>10</order>
+        <role display_value="x_arcag_sn_ci_cd_0.admin" name="x_arcag_sn_ci_cd_0.admin">15394b69db4a191017d9a08d139619eb</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>patrick.marty</sys_created_by>
+        <sys_created_on>2022-09-20 08:29:47</sys_created_on>
+        <sys_id>95394b69db4a191017d9a08d139619ec</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>15394b69db4a191017d9a08d139619eb</sys_name>
+        <sys_package display_value="SN CI CD Test Application" source="x_arcag_sn_ci_cd_0">d9394b69db4a191017d9a08d139619a7</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="SN CI CD Test Application">d9394b69db4a191017d9a08d139619a7</sys_scope>
+        <sys_update_name>sys_embedded_help_role_95394b69db4a191017d9a08d139619ec</sys_update_name>
+        <sys_updated_by>patrick.marty</sys_updated_by>
+        <sys_updated_on>2022-09-20 08:29:47</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
